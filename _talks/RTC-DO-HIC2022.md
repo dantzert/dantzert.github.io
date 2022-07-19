@@ -18,3 +18,7 @@ are influenced by real-time control, and we discuss the implications of the resu
 system-level control studies.
 
 *Keywords.* Dissolved oxygen, real-time control, stormwater networks
+
+[Extended Abstract](https://dantzert.github.io/files/HIC2022Paper64DoRTC.pdf)
+
+[Video (practice talk)](https://drive.google.com/file/d/1t_GSYFA4hgnI-6AJteVV4-WPmXotSfEu/view?usp=sharing)
