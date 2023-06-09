@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-[Recent CV](https://dantzert.github.io/files/cv.pdf)
+[Recent CV](https://dantzert.github.io/files/Dantzer-Travis_CV.pdf)
 
 Education
 ======
 * BSE Environmental Engineering, University of Michigan 2020
 * MSE Environmental Engineering, University of Michigan 2021
+* MS Electrical Engineering, University of Michigan 2023
 * PhD Civil Engineering - Intelligent Systems, University of Michigan 2025
 
 Publications
