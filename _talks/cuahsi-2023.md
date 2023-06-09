@@ -13,3 +13,5 @@ location: "Tahoe City, California, USA"
 *Keywords.* model discovery in partially observable dynamical systems, rainfall-runoff modeling
 
 [Video (practice talk)](https://drive.google.com/file/d/1tFj3HayGh8XKe_Z02KFa6R9CUGDElIay/view?usp=sharing)
+
+[Poster](https://dantzert.github.io/files/cuahsi_poster.pdf)
