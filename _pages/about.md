@@ -10,6 +10,4 @@ redirect_from:
 
 I am a PhD Candidate with Prof. Branko Kerkez at the University of Michigan in Ann Arbor. My research focuses on model discovery in low observability environments. In other words: how do you design a controller for a system with very few sensors?
 
-The PhD has complemented my background in hydrology and hydraulics with coursework in control systems theory that's positioned me well for contributing to the intersection of artificial intelligence, real-time sensing and control, and hydraulic engineering.
-
-[Preprint of Water Resources Research Submission (in revision)](https://essopenarchive.org/doi/full/10.22541/essoar.167630421.17860508)
+This website isn't updated anymore. Please check out my [new website here](https://sites.google.com/umich.edu/travis-adrian-dantzer)
